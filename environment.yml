@@ -1,0 +1,13 @@
+name: openpoint
+channels:
+- pytorch
+- defaults
+dependencies:
+- python=3.6.5
+- matplotlib
+- numpy 
+- scipy
+- tqdm
+- pandas
+- pytorch=1.0 
+- torchvision

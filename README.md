@@ -18,6 +18,14 @@ In this projoect, we try to provie a flexible and easy-to-use implementation of 
 We provide the performance of different architecture in [MODEL_ZOO](./MODEL_ZOO.md)
 # Installization 
 ## 1. Enverionment setup
+```bash
+# Crate Conda virtual environment
+conda env create -f environment.yml
+
+# enter virtual env
+source activate openpoint
+
+```
 ## 2. Build the custom operators
 
 # Usage
